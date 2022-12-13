@@ -56,7 +56,7 @@ ___
 >plt's `cmap='gray'` for a grayscale image.
 
 
-![thresholded images](http://github.com/engr-amir-hamza/SurfaceDefects.git/blob/main/threshold_plots.png?raw=true)
+![threshold_plots](https://user-images.githubusercontent.com/120237699/207210495-4e621a96-b44f-4b52-9a77-660f03a21304.png)
 
 ## 6. Find boundary of pores/defects using `FindContours()` function
 >Contours are lines joining points of same instensity. 
@@ -131,8 +131,7 @@ plt.imshow(circle_img)
 ```
 Refer to point number $11$ for parameters/arguments.
 
-![contours vs circles](src/SurfaceDefects/contours%20vs%20circles.png)
-
+![contours vs circles](https://user-images.githubusercontent.com/120237699/207210503-17d495b6-710b-4537-aa94-44e030a0a4ad.png)
 
 
 ## 13. `Denoise()` smoothens/denoises the original image
