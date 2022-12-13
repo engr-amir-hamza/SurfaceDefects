@@ -56,7 +56,7 @@ ___
 >plt's `cmap='gray'` for a grayscale image.
 
 
-![thresholded images](https://github.com/SurfaceDefects.git/threshold_plots.png)
+![thresholded images](http://github.com/engr-amir-hamza/SurfaceDefects.git/blob/main/threshold_plots.png?raw=true)
 
 ## 6. Find boundary of pores/defects using `FindContours()` function
 >Contours are lines joining points of same instensity. 
